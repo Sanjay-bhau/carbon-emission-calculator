@@ -14,8 +14,4 @@ A simple and interactive web-based tool to estimate your carbon footprint based 
 
 ---
 
-## 🚀 Demo
 
-> 🖼️ Add GitHub Pages/Netlify/Vercel link here (if deployed)
-```bash
-(https://carbon-emission-calculator-smoky.vercel.app/)
